@@ -2,6 +2,8 @@
 
 This web page is a more detailed description of the online perceptual similarity sorting experiment.
 
+![alt text](images/1801_example_sort.gif "Example of sorting by size")
+
 ## Summary
 
 The online perceptual similarity experiment is a collaboration between [HP Labs](http://www8.hp.com/us/en/hp-labs/research/overview.html) and the [University of Minnesota](https://www-users.cs.umn.edu/~gmeyer/). The experiment is an extension of a [2017 summer intern project](https://newsblog.ext.hp.com/t5/HP-newsroom-blog/Summer-2017-interns-at-HP-Labs-Michael-Ludwig/ba-p/995) and builds on results to be presented at the [Materials 2018](http://www.imaging.org/site/IST/IST/Conferences/EI/EI_2018/Conference/C_MAAP.aspx) conference of the [Electronic Imaging Symposium](http://www.imaging.org/site/IST/IST/Conferences/EI/Symposium_Overview.aspx). The research topic is the perception of complex visual appearance in the context of 3D printing. The HP Labs contributors are Nathan Moroney, Ingeborg Tastl, Melanie Gottwals and Gary Dispoto. The University of Minnesota contributors are Dr. Gary Meyer and Michael Ludwig. 
