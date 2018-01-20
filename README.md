@@ -1,6 +1,6 @@
 # Perceptual Similarity Sorting Experiment
 
-This web page is a more detailed description of the online perceptual similarity sorting experiment.
+This web page is a more detailed description of the [online perceptual similarity sorting experiment](http://168.61.15.87/sorting_welcome.html).
 
 ![alt text](images/1801_example_sort2.gif "Example of sorting by size")
 
