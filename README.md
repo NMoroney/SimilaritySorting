@@ -2,7 +2,7 @@
 
 This web page is a more detailed description of the online perceptual similarity sorting experiment.
 
-![alt text](images/1801_example_sort.gif "Example of sorting by size")
+![alt text](images/1801_example_sort2.gif "Example of sorting by size")
 
 ## Summary
 
