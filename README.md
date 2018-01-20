@@ -31,4 +31,5 @@ Also to be done:
 * references section
 * questions / answers section
 * acknowledgements 
+* more complete browser compatibility matrix
 
