@@ -31,5 +31,4 @@ Also to be done:
 * references section
 * questions / answers section
 * acknowledgements 
-* add link back to the experiment
 
