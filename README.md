@@ -29,7 +29,7 @@ Follow-up to questions from participants of the experiment, in no particular ord
 
 ### Q: Why an arc layout?
 
-A: We tested a couple other layouts, including a linear arrangement. But the arc layout allows the reference to be display approximately equi-distant from the items being sorted. Using an arc layout also allowed the items and reference to be larger in terms of pixel dimensions than any of the linera layout that we tested.
+A: We tested a couple other layouts, including a linear arrangement. But the arc layout allows the reference to be display approximately equi-distant from the items being sorted. Using an arc layout also allowed the items and reference to be larger in terms of pixel dimensions than any of the linear layouts that we tested.
 
 ### Q: How are the blobs being processed in the last five trials?
 
@@ -45,7 +45,7 @@ A: After analysis and confidence that the data has utility for research applicat
 
 ### Q: Why sorting? Why not paired comparison or other technique?
 
-A: We previously used sorting for a web-based [large color difference study](https://github.com/NMoroney/public/blob/master/docs/papers/cic22-large_color_differences.pdf) but wanted to revisit the topic given that previously all of the stimuli were intended to have the same computational or model difference while obserevers sorting them in a manner that was not random. In this case we have not generated stimuli that have an intended model difference.
+A: We previously used sorting for a web-based [large color difference study](https://github.com/NMoroney/public/blob/master/docs/papers/cic22-large_color_differences.pdf) but wanted to revisit the topic given that previously all of the stimuli were intended to have the same computational or model difference while obserevers sorting them in a manner that was not random. In this case we have not generated stimuli that have an equal model differences.
 
 ## References
 
@@ -53,10 +53,14 @@ A: We previously used sorting for a web-based [large color difference study](htt
 2. Ludwig, Michael, and Gary Meyer. "Brightness Perception of Surfaces with Mesoscale Structures." Journal of Imaging Science and Technology 61.2 (2017): 20504-1.
 3. Cliff, Norman. [Ordinal methods for behavioral data analysis.](https://searchworks.stanford.edu/view/3431365) Psychology Press, 2014.
 
+## Acknowldegments
+
+* [Prof. Roland Fleming](http://www.allpsych.uni-giessen.de/roland/) created the blob object 
+* [X-Rite](https://www.xrite.com/) developed the [Appearance Exchange Format](https://www.xrite.com/categories/formulation-and-quality-assurance-software/appearance-exchange-format-axf) and [TAC7 material apperance scanner](https://www.xrite.com/categories/appearance/total-appearance-capture-ecosystem/tac7) used in this research.
+
 ## To Do
 
 Also to be done:
 
-* acknowledgements 
 * more complete browser compatibility matrix
 
