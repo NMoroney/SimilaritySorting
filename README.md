@@ -23,13 +23,40 @@ The experiment is implemented as basic JavaScript, but uses HTML5 drag-and-drop 
 
 No other data is collected. The drag and drop sequence and times is recorded as another data source for potentially analyzing uncertainty in the sorting. The display properties are recorded to assess how well the default scale used for the stimuli, in pixels, for the data collected. The experiment is completely voluntary and participants may quit at any time. The authors are grateful to the volunteers who partipated in the experiment.
 
+## Questions-and-Answers
+
+Follow-up to questions from participants of the experiment, in no particular order.
+
+### Q: Why an arc layout?
+
+A: We tested a couple other layouts, including a linear arrangement. But the arc layout allows the reference to be display approximately equi-distant from the items being sorted. Using an arc layout also allowed the items and reference to be larger in terms of pixel dimensions than any of the linera layout that we tested.
+
+### Q: How are the blobs being processed in the last five trials?
+
+A: This will be documented in a manuscript that is currently being writen. In order to reduce effects or bias of any participants reading this page before doing the experiment, the specific programmatic adjustements will not be described until after an initial period of data collection.
+
+### Q: How is the data being collected and logged?
+
+A: The back-end of the program is a relatively minimal Python script that parses the form, performs light weight data cleaning and appends to a text file. All of this is performed using a cloud service to host the experiment and the script.
+
+### Q: Will you be publishing the data collected?
+
+A: After analysis and confidence that the data has utility for research applications, yes the volunteer data will be published to this repository.
+
+### Q: Why sorting? Why not paired comparison or other technique?
+
+A: We previously used sorting for a web-based [large color difference study](https://github.com/NMoroney/public/blob/master/docs/papers/cic22-large_color_differences.pdf) but wanted to revisit the topic given that previously all of the stimuli were intended to have the same computational or model difference while obserevers sorting them in a manner that was not random. In this case we have not generated stimuli that have an intended model difference.
+
+## References
+
+1. Moroney, Nathan, Ingeborg Tastl, and Melanie Gottwals. ["A Similarity Measure for Large Color Differences."](https://github.com/NMoroney/public/blob/master/docs/papers/cic22-large_color_differences.pdf) Color and Imaging Conference. Vol. 2014. No. 2014. Society for Imaging Science and Technology, 2014.
+2. Ludwig, Michael, and Gary Meyer. "Brightness Perception of Surfaces with Mesoscale Structures." Journal of Imaging Science and Technology 61.2 (2017): 20504-1.
+3. Cliff, Norman. [Ordinal methods for behavioral data analysis.](https://searchworks.stanford.edu/view/3431365) Psychology Press, 2014.
+
 ## To Do
 
 Also to be done:
 
-* link to EI paper & large color differences experiment (which aslo used sorting)
-* references section
-* questions / answers section
 * acknowledgements 
 * more complete browser compatibility matrix
 
