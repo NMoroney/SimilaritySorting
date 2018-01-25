@@ -52,6 +52,9 @@ A: We previously used sorting for a web-based [large color difference study](htt
 1. Moroney, Nathan, Ingeborg Tastl, and Melanie Gottwals. ["A Similarity Measure for Large Color Differences."](https://github.com/NMoroney/public/blob/master/docs/papers/cic22-large_color_differences.pdf) Color and Imaging Conference. Vol. 2014. No. 2014. Society for Imaging Science and Technology, 2014.
 2. Ludwig, Michael, and Gary Meyer. "Brightness Perception of Surfaces with Mesoscale Structures." Journal of Imaging Science and Technology 61.2 (2017): 20504-1.
 3. Cliff, Norman. [Ordinal methods for behavioral data analysis.](https://searchworks.stanford.edu/view/3431365) Psychology Press, 2014.
+4. David Bimler and John Kirkland, ["Perceptual Modelling of Product Similarities Using Sorting Data"](http://marketing-bulletin.massey.ac.nz/V9/MB_V9_A2_Bimler.pdf). Marketing Bulletin, 9, pp. 16-27 (1998). Note Figure 4, which is a perceptual map or MDS result for canned (or tinned) beers.
+5. Rogowitz, Bernice E., et al. ["Perceptual image similarity experiments."](https://pdfs.semanticscholar.org/be12/2326c3e1b5f2375023442573a5a45ce8b75c.pdf) Human Vision and Electronic Imaging. Vol. 3. No. 3299. 1998. In this experiment a full 2D sort of 97 printed images.
+6. Clarke, Alasdair DF, Xinghui Dong, and Mike J. Chantler. ["Does free-sorting provide a good estimate of visual similarity."](https://core.ac.uk/download/pdf/2832506.pdf) Predicting Perceptions (2012): 17-20. Free-sorting of 334 texture images by 30 participants.
 
 ## Acknowldegments
 
