@@ -56,7 +56,7 @@ A: We previously used sorting for a web-based [large color difference study](htt
 5. [Farnsworth-Munsell 100 hue test](https://en.wikipedia.org/wiki/Farnsworth-Munsell_100_hue_test).
 6. David Bimler and John Kirkland, ["Perceptual Modelling of Product Similarities Using Sorting Data"](http://marketing-bulletin.massey.ac.nz/V9/MB_V9_A2_Bimler.pdf). Marketing Bulletin, 9, pp. 16-27 (1998). Note Figure 4, which is a perceptual map or MDS result for canned (or tinned) beers.
 7. Rogowitz, Bernice E., et al. ["Perceptual image similarity experiments."](https://pdfs.semanticscholar.org/be12/2326c3e1b5f2375023442573a5a45ce8b75c.pdf) Human Vision and Electronic Imaging. Vol. 3. No. 3299. 1998. In this experiment a full 2D sort of 97 printed images.
-8. Clarke, Alasdair DF, Xinghui Dong, and Mike J. Chantler. ["Does free-sorting provide a good estimate of visual similarity."](https://core.ac.uk/download/pdf/2832506.pdf) Predicting Perceptions (2012): 17-20. Free-sorting of 334 texture images by 30 participants.
+8. Clarke, Alasdair DF, Xinghui Dong, and Mike J. Chantler. ["Does free-sorting provide a good estimate of visual similarity."](http://www.perceptions.macs.hw.ac.uk/papers/Does_Free-sorting_Provide_a_Good_Estimate_of_Visual_Similarity.pdf) Predicting Perceptions (2012): 17-20. Free-sorting of 334 texture images by 30 participants.
 
 ## Acknowldegments
 
